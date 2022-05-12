@@ -5,29 +5,26 @@
 
 - Butun Botların Fiyati Söyliyorum Hemen v12 Butun Botlarım 150 TL V13 Butun Botlarım 200 TL 
 - Botları Sen Yap Derseniz Aylık 100Tl Vds Parası Ve V12 İstiyorsanız 90TL Bot Ücreti V13 İstiyorsanız 120TL Bot Ücreti
-
-- Benle İletisime Gecmek İsteyen Arkadaslarsa instagram : pusha__23 Discord Adresimse ✰ ' Pusha#0268 Ve Discord Sunucumda discord.gg/marino Beni Boyle Bula Bilirsiniz Neyse Hepinize İyi Günler Seviliyorsunuz
-
-# Pusha Guard Bots
+# Guard Bots
 
 - Sekme Guard Buttonlu Ve Hersey Vardir
 - Guard Kanal/Katagori/Rol/Emoji/Webhook/Url/Sagtık İsim Değisme/Sag Tık Kick/Sag Tık Ban/Ve Sunucu İlgili Bir Cok Sey Vardır/
 - Backup Otomatik Rol Silinçe Kendisi Olusturur Ve Otomatik Dağitir Kanal İzinlerini Ayarlar Ve Rol Kim Varsa Herkeşe Vermektedir
 - Chat Guard Küfür/Caps/Chat Limit/Etiket/ Gibi Daha Bir Çok Chate İlgili Korumalarımız Bulunmaktadır
 
-# Pusha Destek Bots
+# Destek Bots
 
 - Destek Bots Olan Özelikler Yetkili Alim / Buttonlu Destek Ve Log Özeligi Bulunmaktadir
 
-# Pusha Logger Bots
+# Logger Bots
 
 - Logger Bots Logger Dedimiz Bot Herseyi Loglayan Bota Denir Rol Silinince Log Kanalına Mesaj Atar Ban Yiyince Birisi Ve Bir Çok Özeligide Vardir
 
-# Pusha Welcome Bots
+# Welcome Bots
 
 - Welcome bots Hem Mongolu Hemde Komutludur Zaten Ekran Fotoraflarında Görürsünüz Komutlarda İstediginiz Gibi Ses Kayıdına Gecer
 
-# Pusha Main Bots
+# Main Bots
 
  Not: 5 tasarım yaptım random seçip veri kartı oluşturuyor...
 
